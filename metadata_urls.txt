@@ -1,0 +1,7 @@
+https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv
+https://s3.amazonaws.com/nyc-tlc/misc/taxi_zones.zip
+https://www1.nyc.gov/assets/tlc/downloads/pdf/trip_record_user_guide.pdf
+https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_green.pdf
+https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_fhv.pdf
+https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_hvfhs.pdf
