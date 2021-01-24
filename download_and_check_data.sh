@@ -9,12 +9,12 @@ echo "-------------------------------"
 if [ ${rep1,,} == 'y' ] ; then 
  echo "Great! You should now unzip tlc_0.2perc.zip in the data/sampled folder I created for you."
  echo "-------------------------------"
- echo "Do you want help to do that (Y/N)?" 
+ echo "Do you want help to do unzip the files (Y/N)?" 
  read rep && rep2=${rep:0:1}
  echo "-------------------------------"
  checkfile=`ls data/sampled | wc -l`
  if [ ${rep2,,} == 'y' ] && [ $checkfile != 281 ] ; then
-  echo "Write down the full path of where you downladed the tlc_0.2perc.zip file, example: /home/Downloads/tlc_0.2perc.ziptlc_0.2perc.zip" 
+  echo "Write down the full path of where you downladed the tlc_0.2perc.zip file, example: /home/Downloads/tlc_0.2perc.zip" 
   read rep
   cp $rep data/sampled/
   cd data/sampled
